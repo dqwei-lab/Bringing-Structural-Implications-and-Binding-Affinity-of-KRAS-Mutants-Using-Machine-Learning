@@ -23,11 +23,18 @@ that ascends as a result of KRAS mutations.
 
 #### Data
 The background data for the Systems Biology and Machine Learning Scripts are provided in separate folders.
-The binary dataset is a huge file and is thus made accessible at https://drive.google.com/open?id=1-lwMZqWrLVS9UNae7Qoe9VGMJ0HXpZis.
+The integrase.cv is a huge file and is thus made accessible at https://drive.google.com/open?id=1-lwMZqWrLVS9UNae7Qoe9VGMJ0HXpZis.
 In case of any inconvinience, please feel free to reach us at iaamirofficial@gmail.com.
 
 #### Demo
-#### Instruction to execute this Model
+#### Instruction to execute this Model  
+Run data set (as a demo)  
+Download integrase.csv file (availabe at https://drive.google.com/open?id=1-lwMZqWrLVS9UNae7Qoe9VGMJ0HXpZis)  
+In the Machine Learning Data folder,  
+Run the DML Training script (Python).py  
+Open CMD and input:  
+cd .\Machine Learning Data\Your_Folder  
+python -u Script.py > Example.out  
 
 
 
