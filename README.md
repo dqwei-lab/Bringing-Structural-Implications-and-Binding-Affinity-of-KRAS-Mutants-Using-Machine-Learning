@@ -1,4 +1,4 @@
-# **Bringing Structural Implications and Binding Affinity of KRAS Mutants Using Machine Learning Approaches**
+# **Bringing Structural Implications and Deep Learning Based Drug Prediction for KRAS Mutants**
 
 ## Aamir Mehmood, Aman Chandra Kaushik, Cheng-Dong Li, Dong-Qing Wei
 
